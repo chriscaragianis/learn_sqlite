@@ -1,0 +1,25 @@
+{
+  "name": "learn_sqlite",
+  "version": "1.0.0",
+  "description": "A space for practicing database interactions using sqlite",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "sqlite3": "https://github.com/mapbox/node-sqlite3/tarball/master"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chriscaragianis/learn_sqlite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chriscaragianis/learn_sqlite/issues"
+  },
+  "homepage": "https://github.com/chriscaragianis/learn_sqlite#readme"
+}
