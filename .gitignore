@@ -1,2 +1,3 @@
 
-nodemodules/
+nodemodules/*
+address_book.db
